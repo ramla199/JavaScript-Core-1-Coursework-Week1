@@ -6,7 +6,7 @@
 */
 
 function calculateSalesTax(prices) {
-  return 0.2 * prices;
+  return price * 0.2; 
 }
 
 /*
